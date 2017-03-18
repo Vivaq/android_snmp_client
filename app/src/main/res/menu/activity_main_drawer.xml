@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/op1"
+            android:icon="@drawable/side_nav_bar"
+            android:title="Interfejsy" />
+        <item
+            android:id="@+id/op2"
+            android:icon="@drawable/side_nav_bar"
+            android:title="Tablice Polaczen TCP" />
+        <item
+            android:id="@+id/op3"
+            android:icon="@drawable/side_nav_bar"
+            android:title="Porty UDP" />
+
+    </group>
+
+</menu>

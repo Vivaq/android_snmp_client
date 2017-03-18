@@ -1,0 +1,12 @@
+<resources>
+    <string name="ip_2_bytes">192.168</string>
+    <string name="accept_new_ip">Wprowadz</string>
+    <string name="new_ip">Enter new servers IP address</string>
+    <string name="app_name">Snmp app</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_system_info">Informacje o systemie</string>
+    <string name="action_settings">Ustawienia</string>
+</resources>
